@@ -18,7 +18,7 @@ Unfortunately, I could only take 3 days to build it under the two-week deadline.
 
 ## Features
 
-- **Basic Frontend Development** Showcasing my ability to create a simple yet functional website.
+- **Basic Frontend Development**: Demonstrating my ability to create a simple yet functional website.
 - **Portion Adjuster**: Allows users to adjust ingredient amounts dynamically by changing the number of servings.
 - **Ingredient List**: Displays the list of ingredients for the recipe, sourced from [tatyanaseverydayfood.com](https://www.tatyanaseverydayfood.com).
 
